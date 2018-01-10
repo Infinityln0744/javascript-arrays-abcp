@@ -7,22 +7,22 @@ function addElementToBeginningOfArray(array,element) {
 function destructivelyAddElementToBeginningOfArray(array,element) {
 }
 
-function addElementToEndOfArray(array, element){
+function addElementToEndOfArray(array,element){
 }
 
-function destructivelyAddElementToEndOfArray(array, element){
+function destructivelyAddElementToEndOfArray(array,element){
 }
 
-function accessElementInArray(array, element){
+function accessElementInArray(array,element){
 }
 
-function destructivelyRemoveElementFromBeginningOfArray(){
+function destructivelyRemoveElementFromBeginningOfArray(array,element){
 }
 
-function removeElementFromBeginningOfArray(){
+function removeElementFromBeginningOfArray(array){
 }
 
-function destructivelyRemoveElementFromEndOfArray(){
+function destructivelyRemoveElementFromEndOfArray(array){
 }
 
 function removeElementFromEndOfArray(){
